@@ -52,15 +52,15 @@
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           }
         ],
         "dipstogive": 5
@@ -137,15 +137,15 @@
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/ScorchedEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           }
         ],
         "dipstogive": 5
@@ -242,15 +242,15 @@
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           }
         ],
         "dipstogive": 5
@@ -319,15 +319,15 @@
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Rhino/Rhino_Character_BP.Rhino_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           }
         ],
         "dipstogive": 5
@@ -380,15 +380,15 @@
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/ScorchedEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           }
         ],
         "dipstogive": 5
@@ -437,18 +437,18 @@
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/ASA/Dinos/Denotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           },
           {
             "dino": "/Game/ScorchedEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           }
         ],
-        "dipstogive": 5
+        "dipstogive": 4
       },
       {
         "weekforoptions": [
@@ -494,10 +494,10 @@
           },
           {
             "dino": "/Game/PrimalEarth/Dinos/Gigantosaurus/Gigant_Character_BP.Gigiant_Character_BP_C",
-            "chancetodrop": 0.25
+            "chancetodrop": 0.1
           }
         ],
-        "dipstogive": 5
+        "dipstogive": 3
       },
       {
         "weekforoptions": [
@@ -518,7 +518,7 @@
             "chancetodrop": 0.5
           }
         ],
-        "dipstogive": 5
+        "dipstogive": 1
       }
     ]
   }
